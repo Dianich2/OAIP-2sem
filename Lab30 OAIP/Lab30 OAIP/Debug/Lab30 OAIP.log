@@ -1,0 +1,46 @@
+﻿Сборка начата 10.05.2024 09:13:58.
+Уровень детализации журнала: Normal.     1>Проект "C:\ФИТ\Лабораторные работы\Лабораторные работы по ОАиП\2 сем\Lab30 OAIP\Lab30 OAIP\Lab30 OAIP.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Lab30 OAIP.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Visual Studio\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt main.cpp
+         main.cpp
+     1>C:\ФИТ\Лабораторные работы\Лабораторные работы по ОАиП\2 сем\Lab30 OAIP\Lab30 OAIP\main.cpp(150,1): warning C4005: A1: изменение макроопределения
+       C:\ФИТ\Лабораторные работы\Лабораторные работы по ОАиП\2 сем\Lab30 OAIP\Lab30 OAIP\main.cpp(139): message : см. предыдущее определение "A1"
+     1>C:\ФИТ\Лабораторные работы\Лабораторные работы по ОАиП\2 сем\Lab30 OAIP\Lab30 OAIP\main.cpp(206,24): warning C4018: <: несоответствие типов со знаком и без знака
+     1>C:\ФИТ\Лабораторные работы\Лабораторные работы по ОАиП\2 сем\Lab30 OAIP\Lab30 OAIP\main.cpp(210,29): warning C4018: <: несоответствие типов со знаком и без знака
+     1>C:\ФИТ\Лабораторные работы\Лабораторные работы по ОАиП\2 сем\Lab30 OAIP\Lab30 OAIP\main.cpp(214,29): warning C4018: <: несоответствие типов со знаком и без знака
+     1>C:\ФИТ\Лабораторные работы\Лабораторные работы по ОАиП\2 сем\Lab30 OAIP\Lab30 OAIP\main.cpp(218,29): warning C4018: <: несоответствие типов со знаком и без знака
+     1>C:\ФИТ\Лабораторные работы\Лабораторные работы по ОАиП\2 сем\Lab30 OAIP\Lab30 OAIP\main.cpp(222,29): warning C4018: <: несоответствие типов со знаком и без знака
+     1>C:\ФИТ\Лабораторные работы\Лабораторные работы по ОАиП\2 сем\Lab30 OAIP\Lab30 OAIP\main.cpp(230,23): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+     1>C:\ФИТ\Лабораторные работы\Лабораторные работы по ОАиП\2 сем\Lab30 OAIP\Lab30 OAIP\main.cpp(238,1): warning C4005: A1: изменение макроопределения
+       C:\ФИТ\Лабораторные работы\Лабораторные работы по ОАиП\2 сем\Lab30 OAIP\Lab30 OAIP\main.cpp(150): message : см. предыдущее определение "A1"
+     1>C:\ФИТ\Лабораторные работы\Лабораторные работы по ОАиП\2 сем\Lab30 OAIP\Lab30 OAIP\main.cpp(248,1): warning C4005: A1: изменение макроопределения
+       C:\ФИТ\Лабораторные работы\Лабораторные работы по ОАиП\2 сем\Lab30 OAIP\Lab30 OAIP\main.cpp(238): message : см. предыдущее определение "A1"
+       Link:
+         C:\Visual Studio\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\ФИТ\Лабораторные работы\Лабораторные работы по ОАиП\2 сем\Lab30 OAIP\Debug\Lab30 OAIP.exe" /INCREMENTAL /ILK:"Debug\Lab30 OAIP.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\ФИТ\Лабораторные работы\Лабораторные работы по ОАиП\2 сем\Lab30 OAIP\Debug\Lab30 OAIP.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\ФИТ\Лабораторные работы\Лабораторные работы по ОАиП\2 сем\Lab30 OAIP\Debug\Lab30 OAIP.lib" /MACHINE:X86 Debug\Heap.obj
+         Debug\main.obj
+         Lab30 OAIP.vcxproj -> C:\ФИТ\Лабораторные работы\Лабораторные работы по ОАиП\2 сем\Lab30 OAIP\Debug\Lab30 OAIP.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab30 OAIP.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab30 OAIP.tlog\Lab30 OAIP.lastbuildstate".
+     1>Сборка проекта "C:\ФИТ\Лабораторные работы\Лабораторные работы по ОАиП\2 сем\Lab30 OAIP\Lab30 OAIP\Lab30 OAIP.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\ФИТ\Лабораторные работы\Лабораторные работы по ОАиП\2 сем\Lab30 OAIP\Lab30 OAIP\Lab30 OAIP.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\ФИТ\Лабораторные работы\Лабораторные работы по ОАиП\2 сем\Lab30 OAIP\Lab30 OAIP\main.cpp(150,1): warning C4005: A1: изменение макроопределения
+         C:\ФИТ\Лабораторные работы\Лабораторные работы по ОАиП\2 сем\Lab30 OAIP\Lab30 OAIP\main.cpp(206,24): warning C4018: <: несоответствие типов со знаком и без знака
+         C:\ФИТ\Лабораторные работы\Лабораторные работы по ОАиП\2 сем\Lab30 OAIP\Lab30 OAIP\main.cpp(210,29): warning C4018: <: несоответствие типов со знаком и без знака
+         C:\ФИТ\Лабораторные работы\Лабораторные работы по ОАиП\2 сем\Lab30 OAIP\Lab30 OAIP\main.cpp(214,29): warning C4018: <: несоответствие типов со знаком и без знака
+         C:\ФИТ\Лабораторные работы\Лабораторные работы по ОАиП\2 сем\Lab30 OAIP\Lab30 OAIP\main.cpp(218,29): warning C4018: <: несоответствие типов со знаком и без знака
+         C:\ФИТ\Лабораторные работы\Лабораторные работы по ОАиП\2 сем\Lab30 OAIP\Lab30 OAIP\main.cpp(222,29): warning C4018: <: несоответствие типов со знаком и без знака
+         C:\ФИТ\Лабораторные работы\Лабораторные работы по ОАиП\2 сем\Lab30 OAIP\Lab30 OAIP\main.cpp(230,23): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+         C:\ФИТ\Лабораторные работы\Лабораторные работы по ОАиП\2 сем\Lab30 OAIP\Lab30 OAIP\main.cpp(238,1): warning C4005: A1: изменение макроопределения
+         C:\ФИТ\Лабораторные работы\Лабораторные работы по ОАиП\2 сем\Lab30 OAIP\Lab30 OAIP\main.cpp(248,1): warning C4005: A1: изменение макроопределения
+
+    Предупреждений: 9
+    Ошибок: 0
+
+Прошло времени 00:00:01.22
